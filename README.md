@@ -19,3 +19,12 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api?username=Voidwalker1999&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Voidwalker1999&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Voidwalker1999&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
+
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
