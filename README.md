@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hasaranga (Also known as Octane )
-- 👀 I’m interested in Web development and programming.
-- 🌱 I’m currently learning R language, React, Nodejs and JavaScript.
+- 👀 I’m interested in Web development and programming, ML related software development.
+- 🌱 I’m currently learning C#, Laravel, React, Nodejs, JavaScript and Unity.
 - 💞️ I’m looking to collaborate on full stack developements.
 
 
