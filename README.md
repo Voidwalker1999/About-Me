@@ -9,9 +9,10 @@ Voidwalker1999/About-Me is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-hasaranga-656783216/) 
+--->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Voidwalker1999&theme=algolia	)](https://git.io/streak-stats)
 
